@@ -9,3 +9,6 @@ Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA 19104,
 Philadelphia, PA 19104.
 
 This Repo is maintained by Yihan Xie, if you have any questions please email: Yihan.Xie1@pennmedicine.upenn.edu
+
+-FOS Connectivity Graph 3D view
+![Fos Connectivity 3D](https://github.com/GoogleXie/Oprm1-cFos-Connectivity/assets/57155132/e92128d8-894d-4b20-9bb8-f1b15b09e677)
