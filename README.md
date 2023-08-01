@@ -21,17 +21,3 @@ Philadelphia, PA 19104.
 
 
 
-
-
--FOS Connectivity Network is not strong Scale Free NEtwork
-![Scale Free Plot](https://github.com/GoogleXie/Oprm1-cFos-Connectivity/assets/57155132/0bba9d61-0d5c-4e98-96ec-6074fcb796da)
-
-
-
-
-
--Stability of Communities (1) in the Oprm1 A112G Morphine activated FOS Connectivity Network
-
-![Slide3](https://github.com/GoogleXie/Oprm1-cFos-Connectivity/assets/57155132/621633ff-3558-47a8-8352-64bc149e1034)
-
-1.  J.-C. Delvenne, S. N. Yaliraki, and M. Barahona, “Stability of graph communities across time scales,” Proc Nat Acad Sci USA, vol. 107, no. 29, pp. 12755–12760, 2010.
