@@ -1,5 +1,5 @@
 # Oprm1-cFos-Connectivity
-supplementary data and script for generating result in "The Oprm1 A118G SNP modulates functional network topology and brain-state transition 
+Supplementary data and script for generating result in "The Oprm1 A118G SNP modulates functional network topology and brain-state transition 
 energetics during opioid administration."
 Yihan Xie1, Julia K. Brynildsen2, Kyle Windisch1, Julie A. Blendy1
 Author Affiliations: 
