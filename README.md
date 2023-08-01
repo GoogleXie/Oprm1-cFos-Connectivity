@@ -15,9 +15,3 @@ Philadelphia, PA 19104.
 -Bad Image.csv contains bad slices (region damaged, abnormal photo bleach on such slices) that are excluded in generating summarized FOS Counts.
 
 -FosConnectivityAutoBatchAnalysisParticle.. is a IJM script run by FIJI/ImageJ. To use, drag and drop onto FIJI/ImageJ.
-
--FOS Connectivity Graph 3D view
-![Fos Connectivity 3D](https://github.com/GoogleXie/Oprm1-cFos-Connectivity/assets/57155132/e92128d8-894d-4b20-9bb8-f1b15b09e677)
-
-
-
