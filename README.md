@@ -12,3 +12,10 @@ This Repo is maintained by Yihan Xie, if you have any questions please email: Yi
 
 -FOS Connectivity Graph 3D view
 ![Fos Connectivity 3D](https://github.com/GoogleXie/Oprm1-cFos-Connectivity/assets/57155132/e92128d8-894d-4b20-9bb8-f1b15b09e677)
+
+-Demo RAW FOS expression 3D view via BrainRender
+AA Chronic Female
+![AA Chronic Female brainglobe](https://github.com/GoogleXie/Oprm1-cFos-Connectivity/assets/57155132/a02d880a-ee22-42fa-a6bc-5335b05f95ab)
+
+GG Chronic Female
+![GG Chronic Female brainglobe](https://github.com/GoogleXie/Oprm1-cFos-Connectivity/assets/57155132/e2c032af-489e-43ff-861c-5298e3207b7b)
