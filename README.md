@@ -28,8 +28,4 @@ This Repo is maintained by Yihan Xie, if you have any questions please email: Yi
 
 ![Slide3](https://github.com/GoogleXie/Oprm1-cFos-Connectivity/assets/57155132/621633ff-3558-47a8-8352-64bc149e1034)
 
-1.  J.-C. Delvenne, S. N. Yaliraki, and M. Barahona, “Stability of graph communities across time scales,” Proc Nat Acad Sci USA, vol. 107, no. 29, pp. 12755–12760, 2010. See also arXiv:0812.1811
-        
-        
-        
-         (2009).
+1.  J.-C. Delvenne, S. N. Yaliraki, and M. Barahona, “Stability of graph communities across time scales,” Proc Nat Acad Sci USA, vol. 107, no. 29, pp. 12755–12760, 2010.
